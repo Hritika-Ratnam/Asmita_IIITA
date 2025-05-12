@@ -6,7 +6,7 @@ const AsmitaForm = () => {
     age: "",
     email: "",
     phone: "",
-    address: "",
+    query: "",
   };
   const [formData, setFormData] = useState(initialState);
 
@@ -111,7 +111,7 @@ const AsmitaForm = () => {
             htmlFor="address"
             className="block text-sm font-medium text-gray-700 mb-1"
           >
-            Address
+            Query
           </label>
           <textarea
             id="address"
