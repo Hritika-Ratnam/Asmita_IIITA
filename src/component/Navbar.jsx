@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import asmitaLogo from '../assets/asmitaLogo.png';
+// import asmitaLogo from '../assets/asmitaLogo.png';
 import asmita2ndLogo from '../assets/asmita2ndLogo.png';
 import { FaFacebookF } from "react-icons/fa";
 
