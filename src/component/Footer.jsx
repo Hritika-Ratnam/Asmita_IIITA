@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
           
           {/* Leftmost Logo */}
-          <div className="flex justify-center md:justify-start" style={{ width: "20%", height: "100%", margin: "0px auto" }}>
+          <div className="flex justify-center md:justify-start" style={{ width: "100px", height: "110px", margin: "0 auto" }}>
             <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png" alt="Asmita Logo Left" className="w-24 h-auto" />
           </div>
           
